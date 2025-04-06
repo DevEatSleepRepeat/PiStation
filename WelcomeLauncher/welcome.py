@@ -2,6 +2,7 @@ import os
 import tkinter as tk
 from tkinter import *
 from PIL import Image, ImageTk, ImageSequence
+
 root = Tk()
 b_width = 30
 cval = 0
